@@ -1,0 +1,19 @@
+{
+  "name": "tableau-api-esm",
+  "version": "2.2.2",
+  "description": "ESM Version of the Tableau API",
+  "main": "tableau-2.2.2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powersrc/tableau-api-esm.git"
+  },
+  "author": "PowerSrc LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powersrc/tableau-api-esm/issues"
+  },
+  "homepage": "https://github.com/powersrc/tableau-api-esm#readme"
+}
